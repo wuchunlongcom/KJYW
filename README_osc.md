@@ -10,7 +10,6 @@
 - 这里面的脚本是运维经常使用的脚本，方便大家使用！
 
 ## 快捷运维官方地址
-- https://github.com/aqzt/kjyw
 - 开源中国●码云地址：https://gitee.com/aqztcom/kjyw.git
 - Github地址：https://github.com/aqzt/kjyw.git
 - 相关使用文档：https://bbs.aqzt.com/forum-39-1.html
